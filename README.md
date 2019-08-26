@@ -1,2 +1,5 @@
 # hello-world
-Working on Hello World 
+
+Hi Boss, 
+
+Robot is not just a kind of machine. It should be always friendly to human.
